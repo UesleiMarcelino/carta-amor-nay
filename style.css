@@ -23,6 +23,11 @@ body {
   }
 }
 
+.title {
+  margin-bottom: 45rem;
+  color: antiquewhite;
+}
+
 .envelop {
   width: 15rem;
   height: 10rem;
@@ -92,7 +97,7 @@ body {
   bottom: 0;
   right: 0;
   z-index: 400;
-  background-image: url("https://www.freepnglogos.com/uploads/heart-png/emoji-heart-33.png");
+  background-image: url('https://www.freepnglogos.com/uploads/heart-png/emoji-heart-33.png');
   background-color: #f9f9f9;
   border: 0.3rem solid #e2e2e2;
   background-size: 2rem;
@@ -118,7 +123,7 @@ body {
   bottom: 0;
   right: 0;
   z-index: 300;
-  background-image: url("https://www.freepnglogos.com/uploads/heart-png/emoji-heart-33.png");
+  background-image: url('https://www.freepnglogos.com/uploads/heart-png/emoji-heart-33.png');
   background-color: #f9f9f9;
   border: 0.3rem solid #e2e2e2;
   background-size: 2rem;
@@ -174,7 +179,7 @@ body {
   height: 45%;
 }
 .note__text {
-  font-family: "Sofia";
+  font-family: 'Sofia';
   padding: 1rem;
 }
 .note__text p {
@@ -194,10 +199,10 @@ body {
 }
 
 .scissors {
-  cursor: url("https://i.postimg.cc/GtLCdKxR/sisors.png"), pointer;
+  cursor: url('https://i.postimg.cc/GtLCdKxR/sisors.png'), pointer;
 }
 .scissors:active {
-  cursor: url("https://i.postimg.cc/GtXQ7WPZ/pngwing-com.png"), pointer;
+  cursor: url('https://i.postimg.cc/GtXQ7WPZ/pngwing-com.png'), pointer;
 }
 
 .cursor {
